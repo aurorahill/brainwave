@@ -42,7 +42,7 @@ const Hero = () => {
             with Brainwave, the open AI chat app.
           </p>
           <Button
-            href="/pricing"
+            href="#"
             white
           >
             Get started
